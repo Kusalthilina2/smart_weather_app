@@ -2,25 +2,26 @@ Smart Weather App
 
 A simple and interactive Flutter-based mobile application that displays real-time weather information using the OpenWeatherMap API.
 
-🚀 Features
+Features
 
-🔍 Search weather by city
+   Search weather by city
 
-🌡️ Real-time temperature, humidity, and wind data
+   Real-time temperature, humidity, and wind data
 
-⭐ Add cities to Favorites
+   Add cities to Favorites
 
-📅 5-day weather forecast
+   5-day weather forecast
 
-🔔 Local weather alert notifications
+   Local weather alert notifications
 
-🎨 Light mode / Dark mode toggle
+   Light mode / Dark mode toggle
 
-🧭 Simple and user-friendly UI
+   Simple and user-friendly UI
 
-⚡ Fast API integration with Provider state management
+   Fast API integration with Provider state management
 
-🛠️ Tech Stack
+ 
+ Tech Stack
 
 Flutter (Dart)
 
