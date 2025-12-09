@@ -1,16 +1,33 @@
-# smart_weather_app
+Smart Weather App
 
-A new Flutter project.
+A simple and interactive Flutter-based mobile application that displays real-time weather information using the OpenWeatherMap API.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🔍 Search weather by city
 
-A few resources to get you started if this is your first Flutter project:
+🌡️ Real-time temperature, humidity, and wind data
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+⭐ Add cities to Favorites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📅 5-day weather forecast
+
+🔔 Local weather alert notifications
+
+🎨 Light mode / Dark mode toggle
+
+🧭 Simple and user-friendly UI
+
+⚡ Fast API integration with Provider state management
+
+🛠️ Tech Stack
+
+Flutter (Dart)
+
+Provider for state management
+
+OpenWeatherMap API
+
+Flutter Local Notifications
+
+Lottie Animations
